@@ -2,6 +2,13 @@
     display: flex;
     flex-direction: row;
 }
+.left-side {
+    max-width: 600px;
+}
+.background-img {
+    width: 500px;
+    max-height: 100%;
+}
 .logo-container {
     position: relative;
 }
