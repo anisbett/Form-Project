@@ -12,3 +12,9 @@
 .logo-container {
     position: relative;
 }
+.logo-container {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+button {
+    color: #596D48;
+}
