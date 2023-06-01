@@ -5,6 +5,9 @@
 .left-side {
     max-width: 600px;
 }
+.right-side {
+    margin: 50px;
+}
 .background-img {
     width: 500px;
     max-height: 100%;
