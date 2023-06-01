@@ -17,6 +17,10 @@
 button {
     background-color: #596D48;
 }
-input:active {
-    border: #E5E7EB, solid, 1px;
+
+input {
+    border: #E5E7EB solid 1px;
+}
+input:focus {
+    outline: #3a69c7 solid 1px;
 }
