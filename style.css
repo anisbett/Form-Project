@@ -29,3 +29,7 @@ input {
 input:focus {
     outline: #3a69c7 solid 1px;
 }
+a {
+    color: #596D48;
+    text-decoration: none;
+}
