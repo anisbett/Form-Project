@@ -17,3 +17,6 @@
 button {
     background-color: #596D48;
 }
+input:active {
+    border: #E5E7EB, solid, 1px;
+}
