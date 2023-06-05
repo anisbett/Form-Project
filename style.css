@@ -21,6 +21,8 @@ button {
     background-color: #596D48;
     border: none;
     color: white;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 input {
