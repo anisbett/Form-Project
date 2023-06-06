@@ -10,9 +10,14 @@
 }
 .info {
     padding: 50px 50px 0px;
+    background-color: #fafafa;
 }
 .form-container {
     padding: 0px 50px 50px;
+}
+.create-account {
+    padding: 0px 50px 50px;
+    background-color: #fafafa;
 }
 .background-img {
     width: 500px;
