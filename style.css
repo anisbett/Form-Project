@@ -30,6 +30,7 @@ form {
 .form-item {
     display: flex;
     flex-direction: column;
+    flex-basis: 50%;
 }
 .logo-container {
     background-color: rgba(0, 0, 0, 0.4);
