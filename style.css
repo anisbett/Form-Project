@@ -15,6 +15,9 @@
 .form-container {
     padding: 0px 50px 50px;
 }
+.form-item {
+    margin-bottom: 10px;
+}
 .create-account {
     padding: 0px 50px 50px;
     background-color: #fafafa;
