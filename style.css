@@ -39,6 +39,9 @@ form {
     border-radius: 2.5px;
     width: 200px;
 }
+.create-account {
+    padding-top: 20px;
+}
 .logo-container {
     background-color: rgba(0, 0, 0, 0.4);
     position: relative;
