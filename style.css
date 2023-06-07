@@ -32,6 +32,9 @@ form {
     flex-direction: column;
     flex-basis: 50%;
 }
+.input-field {
+    border-radius: 5px;
+}
 .logo-container {
     background-color: rgba(0, 0, 0, 0.4);
     position: relative;
