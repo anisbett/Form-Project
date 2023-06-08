@@ -59,6 +59,7 @@ form {
     background-color: rgba(0, 0, 0, 0.4);
     position: absolute;
     display: flex;
+    top: 150px;
 }
 .odin {
     height: auto;
