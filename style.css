@@ -61,6 +61,7 @@ input {
 }
 input:focus {
     outline: #3a69c7 solid 1px;
+    box-shadow: 1px 1px 5px #E5E7EB;
 }
 a {
     color: #596D48;
