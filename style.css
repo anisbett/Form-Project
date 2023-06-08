@@ -4,10 +4,16 @@
 }
 .left-side {
     max-width: 600px;
+    position: relative;
 }
 .right-side {
     margin: 0px;
     background-color: #fafafa;
+    min-width: 670px;
+    position: relative;
+}
+.card-container {
+    position: relative;
 }
 .info {
     padding: 50px 50px 0px;
@@ -26,6 +32,8 @@
 .background-img {
     width: 500px;
     max-height: 100%;
+    position: relative;
+    
 }
 form {
     display: flex;
@@ -51,6 +59,10 @@ form {
     background-color: rgba(0, 0, 0, 0.4);
     position: absolute;
     display: flex;
+}
+.odin {
+    height: auto;
+    max-width: 50px;
 }
 button {
     background-color: #596D48;
