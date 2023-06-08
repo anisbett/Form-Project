@@ -7,6 +7,7 @@
 }
 .right-side {
     margin: 0px;
+    background-color: #fafafa;
 }
 .info {
     padding: 50px 50px 0px;
@@ -20,7 +21,7 @@
 }
 .create-account {
     padding: 0px 50px 50px;
-    background-color: #fafafa;
+    
 }
 .background-img {
     width: 500px;
@@ -29,6 +30,7 @@
 form {
     display: flex;
     flex-wrap: wrap;
+    background-color: white;
 }
 .form-item {
     display: flex;
