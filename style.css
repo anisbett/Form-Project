@@ -68,6 +68,9 @@ form {
     height: auto;
     max-width: 70px;
 }
+h1 {
+    color: white;
+}
 button {
     background-color: #596D48;
     border: none;
