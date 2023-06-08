@@ -32,6 +32,9 @@ form {
     flex-wrap: wrap;
     background-color: white;
 }
+.lets {
+    background-color: white;
+}
 .form-item {
     display: flex;
     flex-direction: column;
