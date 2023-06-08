@@ -63,6 +63,8 @@ form {
     position: absolute;
     display: flex;
     top: 150px;
+    padding: 10px;
+    width: 480px;
 }
 .odin {
     height: auto;
